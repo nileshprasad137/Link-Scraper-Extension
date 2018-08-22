@@ -45,4 +45,4 @@ function createDownloadLink(anchorSelector, str, fileName){
 document.getElementById('copyText').addEventListener('click', copyText);
 
 // var linksText = document.getElementById("pagetitle").innerHTML; 
-document.getElementById('downloadText').addEventListener('click', createDownloadLink("#downloadText",document.getElementById("pagetitle").innerHTML,"links.txt"));
+// document.getElementById('downloadText').addEventListener('click', createDownloadLink("#downloadText",document.getElementById("pagetitle").innerHTML,"links.txt"));
